@@ -75,3 +75,29 @@
   background: var(--color-accent);
   border-radius: 0 0 2px 2px;
 }
+
+/* ---------- Responsive Mobile Adjustments ---------- */
+@media (max-width: 480px) {
+  .navbar {
+    height: 56px;
+  }
+  
+  .nav-item {
+    gap: 1px;
+    padding: 4px 0;
+    min-height: auto;
+  }
+
+  .nav-item .icon {
+    font-size: 1.1rem;
+  }
+
+  .nav-item .label {
+    font-size: 9px;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 64px;
+  }
+}

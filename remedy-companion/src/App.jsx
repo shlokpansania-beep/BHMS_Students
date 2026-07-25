@@ -1,6 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Dashboard from './components/Dashboard';
+import YearSwitcher from './components/YearSwitcher';
 import FlashcardsPage from './pages/FlashcardsPage';
 import QuizPage from './pages/QuizPage';
 import SearchPage from './pages/SearchPage';
@@ -10,21 +12,15 @@ import NotesQuizPage from './pages/NotesQuizPage';
 import NotesFlashcardsPage from './pages/NotesFlashcardsPage';
 import NotesQAPage from './pages/NotesQAPage';
 import NotesComparePage from './pages/NotesComparePage';
-import Dashboard from './components/Dashboard';
-import { NotesStoreProvider } from './hooks/useNotesStore';
 import { ActiveYearProvider, useActiveYear, YEAR_OPTIONS } from './hooks/useActiveYear';
-import YearSwitcher from './components/YearSwitcher';
+import { NotesStoreProvider } from './hooks/useNotesStore';
 import './App.css';
 
 function AppContent() {
-  const { activeYear, activeSubject, setActiveSubject } = useActiveYear();
-  const [theme, setTheme] = useState(() => {
-    return localStorage.getItem('remedy-companion-theme') || 'light';
-  });
+  const { activeYear, activeSubject, setActiveSubject, theme, setTheme } = useActiveYear();
 
-  useEffect(() => {
+  React.useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('remedy-companion-theme', theme);
   }, [theme]);
 
   const toggleTheme = () => {
@@ -61,22 +57,38 @@ function AppContent() {
         )}
 
         {/* Dynamic Route/Dashboard Content */}
-        {!activeSubject ? (
-          <Dashboard />
-        ) : (
-          <Routes>
-            <Route path="/" element={<Navigate to="/flashcards" replace />} />
-            <Route path="/flashcards" element={<FlashcardsPage />} />
-            <Route path="/quiz" element={<QuizPage />} />
-            <Route path="/search" element={<SearchPage />} />
-            <Route path="/compare" element={<ComparePage />} />
-            <Route path="/notes" element={<NotesPage />} />
-            <Route path="/notes/quiz" element={<NotesQuizPage />} />
-            <Route path="/notes/flashcards" element={<NotesFlashcardsPage />} />
-            <Route path="/notes/qa" element={<NotesQAPage />} />
-            <Route path="/notes/compare" element={<NotesComparePage />} />
-          </Routes>
-        )}
+        <Routes>
+          {/* Notes routes are accessible regardless of whether activeSubject is selected */}
+          <Route path="/notes" element={<NotesPage />} />
+          <Route path="/notes/quiz" element={<NotesQuizPage />} />
+          <Route path="/notes/flashcards" element={<NotesFlashcardsPage />} />
+          <Route path="/notes/qa" element={<NotesQAPage />} />
+          <Route path="/notes/compare" element={<NotesComparePage />} />
+
+          {/* Curriculum routes require activeSubject; otherwise, show Dashboard to pick one */}
+          <Route 
+            path="/flashcards" 
+            element={activeSubject ? <FlashcardsPage /> : <Dashboard />} 
+          />
+          <Route 
+            path="/quiz" 
+            element={activeSubject ? <QuizPage /> : <Dashboard />} 
+          />
+          <Route 
+            path="/search" 
+            element={activeSubject ? <SearchPage /> : <Dashboard />} 
+          />
+          <Route 
+            path="/compare" 
+            element={activeSubject ? <ComparePage /> : <Dashboard />} 
+          />
+          
+          {/* Fallback: Redirect to flashcards if a subject is active, else to notes dashboard */}
+          <Route 
+            path="*" 
+            element={<Navigate to={activeSubject ? "/flashcards" : "/notes"} replace />} 
+          />
+        </Routes>
 
         <Navbar />
       </div>

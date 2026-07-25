@@ -153,7 +153,7 @@ const NotesPage = () => {
                 {document.pageCount} {document.fileType === 'pdf' ? 'pages' : 'slides'}
               </span>
               <span className="doc-year-badge">
-                {activeYearLabel.replace(' BHMS', '')} - {activeSubject}
+                {activeYearLabel.replace(' BHMS', '')}{activeSubject ? ` - ${activeSubject}` : ''}
               </span>
             </div>
           </div>
