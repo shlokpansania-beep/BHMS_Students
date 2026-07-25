@@ -1,9 +1,29 @@
 /**
  * API client for communicating with the Express backend.
- * All calls go through the Vite proxy (/api/* → localhost:3001).
+ * Automatically resolves the API endpoint on local vs production hosts.
  */
 
-const API_BASE = '/api';
+const getApiBase = () => {
+  if (import.meta.env.VITE_API_URL) {
+    return import.meta.env.VITE_API_URL;
+  }
+  
+  const hostname = window.location.hostname;
+  if (hostname === 'localhost' || hostname === '127.0.0.1') {
+    return '/api';
+  }
+  
+  // Self-healing Render subdomain routing:
+  // if site is "xxx.onrender.com", backend is "xxx-api.onrender.com"
+  if (hostname.endsWith('.onrender.com')) {
+    const prefix = hostname.replace('.onrender.com', '');
+    return `https://${prefix}-api.onrender.com/api`;
+  }
+  
+  return '/api';
+};
+
+const API_BASE = getApiBase();
 
 async function apiCall(endpoint, body) {
   try {
