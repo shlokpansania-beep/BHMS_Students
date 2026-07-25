@@ -1,8 +1,10 @@
 .navbar {
   position: fixed;
   bottom: 0;
-  left: 0;
-  right: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: var(--max-width);
   height: var(--navbar-height);
   display: flex;
   justify-content: space-around;
@@ -13,9 +15,6 @@
   border-top: 1px solid var(--color-border);
   z-index: 1000;
   padding-bottom: env(safe-area-inset-bottom);
-  max-width: 600px;
-  left: 50%;
-  transform: translateX(-50%);
   box-shadow: 0 -4px 16px rgba(35, 43, 40, 0.04);
 }
 
