@@ -16,27 +16,24 @@ export function ActiveYearProvider({ children }) {
     return localStorage.getItem('remedy-companion-active-year') || 'all';
   });
 
-  const [activeSubject, setActiveSubject] = useState(() => {
-    return localStorage.getItem(`remedy-companion-active-subject-year-${activeYear}`) || null;
+  // Always initialize activeSubject to null on start, so the dashboard is shown first
+  const [activeSubject, setActiveSubject] = useState(null);
+
+  const [theme, setTheme] = useState(() => {
+    return localStorage.getItem('remedy-companion-theme') || 'light';
   });
 
-  // Sync year changes and load that year's saved subject
+  // Sync year changes to localStorage
   useEffect(() => {
     localStorage.setItem('remedy-companion-active-year', activeYear);
-    const savedSubject = localStorage.getItem(`remedy-companion-active-subject-year-${activeYear}`);
-    // Default to null to show dashboard when switching years
-    setActiveSubject(savedSubject || null);
+    // Reset subject when switching years to show the new year's dashboard
+    setActiveSubject(null);
   }, [activeYear]);
 
-  // Persist activeSubject changes
+  // Sync theme changes to localStorage
   useEffect(() => {
-    const key = `remedy-companion-active-subject-year-${activeYear}`;
-    if (activeSubject) {
-      localStorage.setItem(key, activeSubject);
-    } else {
-      localStorage.removeItem(key);
-    }
-  }, [activeSubject, activeYear]);
+    localStorage.setItem('remedy-companion-theme', theme);
+  }, [theme]);
 
   const getSubjectsForYear = (year) => {
     if (year === 'all') {
@@ -53,7 +50,9 @@ export function ActiveYearProvider({ children }) {
       setActiveYear, 
       activeSubject, 
       setActiveSubject,
-      subjects
+      subjects,
+      theme,
+      setTheme
     }}>
       {children}
     </ActiveYearContext.Provider>
