@@ -1,0 +1,1679 @@
+[
+  {
+    "id": "aconitum-napellus",
+    "name": "Aconitum Napellus",
+    "source": "Plant - Monkshood",
+    "keynotes": [
+      "Sudden, violent onset of symptoms with extreme fear and anxiety",
+      "Complaints from exposure to dry, cold wind",
+      "Tension, physical and mental, cannot be calmed",
+      "High fever with dry, hot skin and unquenchable thirst for cold water"
+    ],
+    "mind_symptoms": [
+      "Great fear, anxiety, and worry accompany every ailment",
+      "Fear of death; predicts the day they will die",
+      "Restless, tossing about in agony",
+      "Music is unbearable, makes them sad"
+    ],
+    "modalities": {
+      "worse": [
+        "Dry, cold winds",
+        "Night",
+        "Warm room",
+        "Rising from bed"
+      ],
+      "better": [
+        "Open air",
+        "After perspiration"
+      ]
+    },
+    "common_uses": [
+      "Acute fever",
+      "Croup",
+      "Panic attacks",
+      "Neuralgia from cold"
+    ],
+    "related_remedies": [
+      "Belladonna",
+      "Chamomilla",
+      "Coffea"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "allium-cepa",
+    "name": "Allium Cepa",
+    "source": "Plant - Onion",
+    "keynotes": [
+      "Profuse, watery, acrid nasal discharge which burns the upper lip",
+      "Bland lacrimation (tears do not burn the eyes)",
+      "Symptoms go from left to right side",
+      "Cough worse from inspiring cold air"
+    ],
+    "mind_symptoms": [
+      "Very melancholy",
+      "Fears the pain will become unbearable",
+      "Desires to be in the open air"
+    ],
+    "modalities": {
+      "worse": [
+        "In the evening",
+        "In a warm room"
+      ],
+      "better": [
+        "In open air",
+        "In a cold room"
+      ]
+    },
+    "common_uses": [
+      "Coryza",
+      "Hay fever",
+      "Laryngitis",
+      "Neuralgia"
+    ],
+    "related_remedies": [
+      "Euphrasia",
+      "Pulsatilla"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "apis-mellifica",
+    "name": "Apis Mellifica",
+    "source": "Animal - Honeybee",
+    "keynotes": [
+      "Swelling, edema, puffiness, like water-bags",
+      "Stinging, burning pains",
+      "Thirstless in all complaints, even during fever",
+      "Intolerance of heat, aggravated by warm room or application"
+    ],
+    "mind_symptoms": [
+      "Apathy, indifference, unconsciousness",
+      "Awkwardness, drops things easily",
+      "Jealousy and suspicion",
+      "Whining, tearfulness, but cannot help crying"
+    ],
+    "modalities": {
+      "worse": [
+        "Heat in any form",
+        "Touch",
+        "Pressure",
+        "Late afternoon"
+      ],
+      "better": [
+        "Cold applications",
+        "Uncovering",
+        "Open air"
+      ]
+    },
+    "common_uses": [
+      "Urticaria",
+      "Cystitis",
+      "Oedema",
+      "Joint effusions"
+    ],
+    "related_remedies": [
+      "Pulsatilla",
+      "Rhus Toxicodendron",
+      "Natrum Muriaticum"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "argentum-nitricum",
+    "name": "Argentum Nitricum",
+    "source": "Mineral - Silver Nitrate",
+    "keynotes": [
+      "Great desire for sweets, which disagree and cause diarrhea",
+      "Splinter-like pains in various parts (throat, uterus)",
+      "Loud eructations which bring relief",
+      "Incoordination and trembling of parts"
+    ],
+    "mind_symptoms": [
+      "Anticipatory anxiety (before exams, engagements)",
+      "Impulsive desire to jump when looking down from a height",
+      "Claustrophobia and agoraphobia",
+      "Hurry, feeling that time passes too slowly"
+    ],
+    "modalities": {
+      "worse": [
+        "Warmth",
+        "Sweets",
+        "Emotions",
+        "Left side"
+      ],
+      "better": [
+        "Cool air",
+        "Eructations",
+        "Hard pressure"
+      ]
+    },
+    "common_uses": [
+      "Diarrhea from anxiety",
+      "Conjunctivitis",
+      "Gastric ulcer",
+      "Hoarseness"
+    ],
+    "related_remedies": [
+      "Lycopodium",
+      "Gelsemium",
+      "Natrum Muriaticum"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "arnica-montana",
+    "name": "Arnica Montana",
+    "source": "Plant - Leopard's Bane",
+    "keynotes": [
+      "Sore, lame, bruised feeling all over the body",
+      "Bed feels too hard, must constantly change position",
+      "Says there is nothing the matter with him, sends the doctor away",
+      "Hot head with cold body"
+    ],
+    "mind_symptoms": [
+      "Fear of being touched or approached",
+      "Indifference, wants to be left alone",
+      "Forgetful, stops in the middle of a sentence",
+      "Unconsciousness, when spoken to answers correctly, then relapses"
+    ],
+    "modalities": {
+      "worse": [
+        "Least touch",
+        "Motion",
+        "Damp cold"
+      ],
+      "better": [
+        "Lying down",
+        "Head low"
+      ]
+    },
+    "common_uses": [
+      "Trauma",
+      "Concussion",
+      "Muscular overexertion",
+      "Boils"
+    ],
+    "related_remedies": [
+      "Rhus Toxicodendron",
+      "Hypericum",
+      "Symphytum"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "arsenicum-album",
+    "name": "Arsenicum Album",
+    "source": "Mineral - White Arsenic",
+    "keynotes": [
+      "Great prostration, out of proportion to the disease",
+      "Burning pains relieved by heat",
+      "Midnight aggravation, especially 12-2 AM",
+      "Unquenchable thirst for small quantities of cold water at frequent intervals"
+    ],
+    "mind_symptoms": [
+      "Extreme restlessness, anguish, and tossing about",
+      "Fear of death, disease, and being alone",
+      "Fastidious, wants everything neat and orderly",
+      "Despair of recovery"
+    ],
+    "modalities": {
+      "worse": [
+        "Cold applications",
+        "Midnight (1-2 AM)",
+        "Cold food or drinks"
+      ],
+      "better": [
+        "Heat",
+        "Warm drinks",
+        "Elevating head"
+      ]
+    },
+    "common_uses": [
+      "Food poisoning",
+      "Asthma",
+      "Gastroenteritis",
+      "Eczema"
+    ],
+    "related_remedies": [
+      "Phosphorus",
+      "Carbo Vegetabilis",
+      "Aconitum Napellus"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "belladonna",
+    "name": "Belladonna",
+    "source": "Plant - Deadly Nightshade",
+    "keynotes": [
+      "Sudden, violent onset of symptoms",
+      "Redness, heat, swelling, and throbbing pain",
+      "Dilated pupils with bright red face",
+      "Sweats on covered parts only"
+    ],
+    "mind_symptoms": [
+      "Delirium, wild and fierce, attempts to strike or bite",
+      "Visions of monsters, ghosts, or hideous faces",
+      "Desire to escape",
+      "Sensitivity to light, noise, and jar"
+    ],
+    "modalities": {
+      "worse": [
+        "Touch",
+        "Jar",
+        "Noise",
+        "Draft of air",
+        "Afternoon (3 PM)"
+      ],
+      "better": [
+        "Semi-erect position",
+        "Rest in a dark room"
+      ]
+    },
+    "common_uses": [
+      "High fever",
+      "Otitis media",
+      "Throat infections",
+      "Sunstroke"
+    ],
+    "related_remedies": [
+      "Aconitum Napellus",
+      "Stramonium",
+      "Hyoscyamus"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "bryonia-alba",
+    "name": "Bryonia Alba",
+    "source": "Plant - White Bryony",
+    "keynotes": [
+      "Aggravation from any motion, wants to lie perfectly still",
+      "Extreme dryness of all mucous membranes",
+      "Excessive thirst for large quantities of cold water at long intervals",
+      "Stitching, tearing pains worse from motion, better from pressure"
+    ],
+    "mind_symptoms": [
+      "Irritable, wants to be left alone",
+      "Talks about business during delirium",
+      "Desires things that are refused when offered",
+      "Anxiety about the future, especially financial"
+    ],
+    "modalities": {
+      "worse": [
+        "Least motion",
+        "Deep breathing",
+        "Eating",
+        "Warm weather"
+      ],
+      "better": [
+        "Absolute rest",
+        "Lying on painful side",
+        "Hard pressure",
+        "Cold applications"
+      ]
+    },
+    "common_uses": [
+      "Pneumonia",
+      "Pleurisy",
+      "Arthritis",
+      "Constipation"
+    ],
+    "related_remedies": [
+      "Rhus Toxicodendron",
+      "Pulsatilla",
+      "Alumina"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "calcarea-carbonica",
+    "name": "Calcarea Carbonica",
+    "source": "Mineral - Carbonate of Lime",
+    "keynotes": [
+      "Leuco-phlegmatic constitution (fair, fat, flabby)",
+      "Profuse perspiration on the head, especially during sleep",
+      "Craves indigestible things (chalk, coal, pencils) and eggs",
+      "Sensation of coldness in single parts"
+    ],
+    "mind_symptoms": [
+      "Fears that people will observe her confusion of mind",
+      "Apprehensive, fears loss of reason or disaster",
+      "Obstinate children",
+      "Slowness in development and comprehension"
+    ],
+    "modalities": {
+      "worse": [
+        "Cold, damp air",
+        "Exertion",
+        "Dentition",
+        "Full moon"
+      ],
+      "better": [
+        "Dry climate",
+        "Lying on painful side"
+      ]
+    },
+    "common_uses": [
+      "Delayed dentition",
+      "Lymphadenopathy",
+      "Obesity",
+      "Bone disorders"
+    ],
+    "related_remedies": [
+      "Belladonna",
+      "Lycopodium",
+      "Silicea"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "chamomilla",
+    "name": "Chamomilla",
+    "source": "Plant - German Chamomile",
+    "keynotes": [
+      "Over-sensitivity to pain, feels it is unbearable",
+      "One cheek red and hot, the other pale and cold",
+      "Hot, green, watery, foul-smelling diarrhea like chopped spinach",
+      "Night sweats on the head"
+    ],
+    "mind_symptoms": [
+      "Extremely irritable, peevish, angry, snappish",
+      "Child wants to be carried everywhere, which brings relief",
+      "Demands things and then throws them away",
+      "Intolerance of being spoken to or interrupted"
+    ],
+    "modalities": {
+      "worse": [
+        "Anger",
+        "Night",
+        "Dentition",
+        "Heat"
+      ],
+      "better": [
+        "Being carried",
+        "Warm wet weather"
+      ]
+    },
+    "common_uses": [
+      "Teething troubles",
+      "Colic",
+      "Dysmenorrhea",
+      "Otitis media"
+    ],
+    "related_remedies": [
+      "Belladonna",
+      "Cina",
+      "Pulsatilla"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "china-officinalis",
+    "name": "China Officinalis",
+    "source": "Plant - Peruvian Bark",
+    "keynotes": [
+      "Debility from exhausting discharges (loss of blood, fluids)",
+      "Periodicity of complaints, especially fevers",
+      "Abdomen bloated with flatulence, not relieved by eructations",
+      "Extreme sensitivity to light touch, but hard pressure relieves"
+    ],
+    "mind_symptoms": [
+      "Apathy and indifference",
+      "Suddenly crying and tossing about",
+      "Disposed to hurt others' feelings",
+      "Full of plans and ideas, especially in the evening"
+    ],
+    "modalities": {
+      "worse": [
+        "Slight touch",
+        "Draft of air",
+        "Loss of vital fluids",
+        "Every other day"
+      ],
+      "better": [
+        "Hard pressure",
+        "Bending double",
+        "Warmth"
+      ]
+    },
+    "common_uses": [
+      "Anemia",
+      "Malaria",
+      "Gallbladder colic",
+      "Chronic fatigue"
+    ],
+    "related_remedies": [
+      "Ferrum Metallicum",
+      "Arsenicum Album",
+      "Carbo Vegetabilis"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "gelsemium",
+    "name": "Gelsemium",
+    "source": "Plant - Yellow Jasmine",
+    "keynotes": [
+      "Dullness, dizziness, drowsiness, and trembling",
+      "Thirstless with fevers",
+      "Muscular weakness, heavy eyelids (ptosis)",
+      "Chills running up and down the back"
+    ],
+    "mind_symptoms": [
+      "Anticipatory anxiety (diarrhea from fear or fright)",
+      "Desire to be quiet, to be left alone",
+      "Apathetic, cannot think clearly",
+      "Cowardice, lack of courage"
+    ],
+    "modalities": {
+      "worse": [
+        "Damp weather",
+        "Before a thunderstorm",
+        "Emotion/excitement",
+        "Bad news"
+      ],
+      "better": [
+        "Profuse urination",
+        "Bending forward",
+        "Open air",
+        "Stimulants"
+      ]
+    },
+    "common_uses": [
+      "Influenza",
+      "Exam anxiety",
+      "Paralysis",
+      "Headache"
+    ],
+    "related_remedies": [
+      "Argentum Nitricum",
+      "Baptisia",
+      "Ignatia Amara"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "hepar-sulphuris",
+    "name": "Hepar Sulphuris",
+    "source": "Mineral - Calcium Sulphide",
+    "keynotes": [
+      "Extreme sensitivity to cold air and drafts",
+      "Suppurative processes, promotes suppuration or aborts it",
+      "Splinter-like pains in the throat or ulcers",
+      "Sour smelling sweat and discharges"
+    ],
+    "mind_symptoms": [
+      "Extremely irritable and sensitive",
+      "Hasty in speech and actions",
+      "Impulse to kill or set things on fire",
+      "Dissatisfied with everything"
+    ],
+    "modalities": {
+      "worse": [
+        "Cold drafts",
+        "Uncovering",
+        "Touch",
+        "Winter"
+      ],
+      "better": [
+        "Warmth",
+        "Wrapping up head",
+        "Damp weather"
+      ]
+    },
+    "common_uses": [
+      "Abscesses",
+      "Tonsillitis",
+      "Croup",
+      "Asthma"
+    ],
+    "related_remedies": [
+      "Silicea",
+      "Calcarea Sulphurica",
+      "Mercurius Solubilis"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "ignatia-amara",
+    "name": "Ignatia Amara",
+    "source": "Plant - St. Ignatius Bean",
+    "keynotes": [
+      "Ailments from grief, disappointment, or shock",
+      "Contradictory and alternating symptoms",
+      "Sensation of a lump in the throat (globus hystericus)",
+      "Frequent sighing and yawning"
+    ],
+    "mind_symptoms": [
+      "Silent grief, brooding",
+      "Moods change rapidly from joy to sorrow",
+      "Cannot bear contradiction",
+      "Desires to be alone with her grief"
+    ],
+    "modalities": {
+      "worse": [
+        "Morning",
+        "Coffee",
+        "Tobacco smoke",
+        "Consolation"
+      ],
+      "better": [
+        "Eating solid food",
+        "Changing position",
+        "Warmth"
+      ]
+    },
+    "common_uses": [
+      "Grief",
+      "Hysteria",
+      "Spasmodic cough",
+      "Headaches"
+    ],
+    "related_remedies": [
+      "Natrum Muriaticum",
+      "Pulsatilla",
+      "Sepia"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "ipecacuanha",
+    "name": "Ipecacuanha",
+    "source": "Plant - Ipecac Root",
+    "keynotes": [
+      "Persistent nausea which is not relieved by vomiting",
+      "Clean, uncoated tongue despite severe nausea",
+      "Bright red, profuse hemorrhages",
+      "Spasmodic affections (cough, asthma) with nausea"
+    ],
+    "mind_symptoms": [
+      "Irritable, holds everything in contempt",
+      "Full of desires for things they do not know what",
+      "Ailments from suppressed anger",
+      "Children scream and howl"
+    ],
+    "modalities": {
+      "worse": [
+        "Overeating",
+        "Veal, pork, rich food",
+        "Warm, moist weather"
+      ],
+      "better": [
+        "Open air"
+      ]
+    },
+    "common_uses": [
+      "Asthma",
+      "Nausea and vomiting of pregnancy",
+      "Hemorrhage",
+      "Pertussis"
+    ],
+    "related_remedies": [
+      "Antimonium Tartaricum",
+      "Arsenicum Album",
+      "Pulsatilla"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "kali-bichromicum",
+    "name": "Kali Bichromicum",
+    "source": "Mineral - Potassium Bichromate",
+    "keynotes": [
+      "Thick, ropy, tenacious, yellow-green discharges",
+      "Pains in small spots, can be covered with the point of a finger",
+      "Pains wander quickly from one place to another",
+      "Punched-out ulcers on mucous membranes"
+    ],
+    "mind_symptoms": [
+      "Ill-humored, low-spirited",
+      "Aversion to mental exertion",
+      "Anthropophobia (fear of people)",
+      "Irritability after eating"
+    ],
+    "modalities": {
+      "worse": [
+        "Morning (2-3 AM)",
+        "Cold",
+        "Damp weather",
+        "Beer"
+      ],
+      "better": [
+        "Heat",
+        "Motion",
+        "Pressure"
+      ]
+    },
+    "common_uses": [
+      "Sinusitis",
+      "Gastric ulcers",
+      "Sciatica",
+      "Asthma"
+    ],
+    "related_remedies": [
+      "Pulsatilla",
+      "Hydrastis",
+      "Mercurius Solubilis"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "lachesis",
+    "name": "Lachesis",
+    "source": "Animal - Bushmaster Snake Venom",
+    "keynotes": [
+      "Left-sided complaints, or symptoms move from left to right",
+      "Worse after sleep or sleeps into aggravation",
+      "Intolerance of tight clothing, especially around the neck and waist",
+      "Purplish discoloration of affected parts"
+    ],
+    "mind_symptoms": [
+      "Loquacity, jumps from one subject to another",
+      "Extreme jealousy, suspicion, and paranoia",
+      "Religious insanity",
+      "Sadness in the morning on awaking"
+    ],
+    "modalities": {
+      "worse": [
+        "After sleep",
+        "Left side",
+        "Swallowing liquids",
+        "Spring",
+        "Heat"
+      ],
+      "better": [
+        "Appearance of discharges",
+        "Cold drinks",
+        "Hard pressure"
+      ]
+    },
+    "common_uses": [
+      "Menopausal flashes",
+      "Tonsillitis",
+      "Varicose veins",
+      "Asthma"
+    ],
+    "related_remedies": [
+      "Lycopodium",
+      "Crotalus Horridus",
+      "Sulphur"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "lycopodium",
+    "name": "Lycopodium",
+    "source": "Plant - Club Moss",
+    "keynotes": [
+      "Right-sided complaints, or move from right to left",
+      "Aggravation from 4 PM to 8 PM",
+      "Digestive disturbances with bloating, worse from eating a little",
+      "Craves warm food, warm drinks, and sweets"
+    ],
+    "mind_symptoms": [
+      "Anticipatory anxiety but performs well once started",
+      "Dictatorial, loves power, bossy to family but subservient to superiors",
+      "Lack of self-confidence",
+      "Weeps when thanked or receiving gifts"
+    ],
+    "modalities": {
+      "worse": [
+        "4 to 8 PM",
+        "Right side",
+        "Cold food/drinks",
+        "Tight clothing"
+      ],
+      "better": [
+        "Warm food/drinks",
+        "Motion",
+        "Loosening garments",
+        "Passing flatus"
+      ]
+    },
+    "common_uses": [
+      "Dyspepsia",
+      "Renal calculi",
+      "Hepatitis",
+      "Impotence"
+    ],
+    "related_remedies": [
+      "Calcarea Carbonica",
+      "Sulphur",
+      "Pulsatilla"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "mercurius-solubilis",
+    "name": "Mercurius Solubilis",
+    "source": "Mineral - Mercury",
+    "keynotes": [
+      "Profuse, offensive sweat which does not relieve",
+      "Flabby tongue with imprints of teeth",
+      "Increased salivation, especially at night",
+      "Creeping chilliness, worse at night"
+    ],
+    "mind_symptoms": [
+      "Hasty speech, stammering",
+      "Suspicious and lack of self-confidence",
+      "Impulse to kill or commit suicide",
+      "Memory weak, forgets everything"
+    ],
+    "modalities": {
+      "worse": [
+        "Night",
+        "Sweating",
+        "Extremes of heat and cold",
+        "Lying on right side"
+      ],
+      "better": [
+        "Moderate temperature",
+        "Rest"
+      ]
+    },
+    "common_uses": [
+      "Gingivitis",
+      "Dysentery",
+      "Syphilis",
+      "Otitis media"
+    ],
+    "related_remedies": [
+      "Hepar Sulphuris",
+      "Nitric Acid",
+      "Thuja Occidentalis"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "natrum-muriaticum",
+    "name": "Natrum Muriaticum",
+    "source": "Mineral - Sodium Chloride",
+    "keynotes": [
+      "Ailments from silent grief, disappointment in love",
+      "Great craving for salt",
+      "Emaciation, especially of the neck",
+      "Headache like little hammers, worse in the sun"
+    ],
+    "mind_symptoms": [
+      "Wants to be alone to cry, aggravation from consolation",
+      "Dwells on past unpleasant memories",
+      "Reserved, introverted, finds it hard to express emotions",
+      "Laughs at serious things"
+    ],
+    "modalities": {
+      "worse": [
+        "Sun",
+        "10 AM",
+        "Consolation",
+        "Mental exertion"
+      ],
+      "better": [
+        "Open air",
+        "Cold bathing",
+        "Fasting",
+        "Lying on right side"
+      ]
+    },
+    "common_uses": [
+      "Migraine",
+      "Herpes",
+      "Anemia",
+      "Depression"
+    ],
+    "related_remedies": [
+      "Ignatia Amara",
+      "Sepia",
+      "Pulsatilla"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "nux-vomica",
+    "name": "Nux Vomica",
+    "source": "Plant - Poison Nut",
+    "keynotes": [
+      "Chilly, loves warmth, worse from cold or drafts",
+      "Frequent ineffectual urging for stool",
+      "Oversensitive to all external impressions (noise, light, smells)",
+      "Ailments from modern life, stimulants, rich food, medicines"
+    ],
+    "mind_symptoms": [
+      "Irritable, impatient, easily angered",
+      "Ambitious, hard-working (Type A personality)",
+      "Cannot bear contradiction or opposition",
+      "Jealous and fault-finding"
+    ],
+    "modalities": {
+      "worse": [
+        "Morning",
+        "Cold",
+        "Spices",
+        "Stimulants",
+        "Mental exertion"
+      ],
+      "better": [
+        "Evening",
+        "Warmth",
+        "Rest",
+        "After a short sleep"
+      ]
+    },
+    "common_uses": [
+      "Dyspepsia",
+      "Constipation",
+      "Hangover",
+      "Insomnia"
+    ],
+    "related_remedies": [
+      "Ignatia Amara",
+      "Sulphur",
+      "Sepia"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "phosphorus",
+    "name": "Phosphorus",
+    "source": "Mineral - Phosphorus",
+    "keynotes": [
+      "Burning sensations anywhere in the body",
+      "Great craving for ice-cold water, which is vomited as soon as it becomes warm in the stomach",
+      "Hemorrhagic diathesis, bleeds easily and profusely",
+      "Oversensitive to external impressions, especially thunderstorms"
+    ],
+    "mind_symptoms": [
+      "Affectionate, sympathetic, needs reassurance",
+      "Full of fears: being alone, dark, ghosts, thunderstorms",
+      "Clairvoyant, sensitive",
+      "Apathy and indifference in later stages"
+    ],
+    "modalities": {
+      "worse": [
+        "Cold",
+        "Twilight",
+        "Lying on left side",
+        "Thunderstorms"
+      ],
+      "better": [
+        "Warmth",
+        "Cold food/drinks",
+        "Sleep",
+        "Eating"
+      ]
+    },
+    "common_uses": [
+      "Pneumonia",
+      "Peptic ulcer",
+      "Bleeding disorders",
+      "Laryngitis"
+    ],
+    "related_remedies": [
+      "Arsenicum Album",
+      "Calcarea Carbonica",
+      "Lycopodium"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "pulsatilla",
+    "name": "Pulsatilla",
+    "source": "Plant - Wind Flower",
+    "keynotes": [
+      "Thirstless with all complaints",
+      "Discharges are thick, bland, and yellowish-green",
+      "Symptoms ever-changing, no two stools alike",
+      "Chilly, but cannot bear heat or closed rooms"
+    ],
+    "mind_symptoms": [
+      "Mild, gentle, yielding, weeping disposition",
+      "Weeps easily, better from consolation",
+      "Fears being alone, dark, ghosts",
+      "Highly emotional and affectionate"
+    ],
+    "modalities": {
+      "worse": [
+        "Heat",
+        "Rich, fat food",
+        "Evening",
+        "Warm room",
+        "Rest"
+      ],
+      "better": [
+        "Open air",
+        "Motion",
+        "Cold applications",
+        "Consolation"
+      ]
+    },
+    "common_uses": [
+      "Menstrual disorders",
+      "Otitis media",
+      "Measles",
+      "Varicose veins"
+    ],
+    "related_remedies": [
+      "Silicea",
+      "Natrum Muriaticum",
+      "Ignatia Amara"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "rhus-toxicodendron",
+    "name": "Rhus Toxicodendron",
+    "source": "Plant - Poison Ivy",
+    "keynotes": [
+      "Triangular red tip of the tongue",
+      "Great restlessness, cannot stay in one position",
+      "Ailments from getting wet while perspiring",
+      "Vesicular eruptions with intense itching"
+    ],
+    "mind_symptoms": [
+      "Extreme restlessness and anxiety, especially at night",
+      "Fears he will be poisoned",
+      "Sadness, begins to weep without knowing why",
+      "Thoughts of suicide, wants to drown himself"
+    ],
+    "modalities": {
+      "worse": [
+        "First motion",
+        "Cold, damp weather",
+        "Rest",
+        "Night"
+      ],
+      "better": [
+        "Continued motion",
+        "Warm applications",
+        "Dry weather"
+      ]
+    },
+    "common_uses": [
+      "Rheumatism",
+      "Sprains",
+      "Chickenpox",
+      "Herpes zoster"
+    ],
+    "related_remedies": [
+      "Bryonia Alba",
+      "Arnica Montana",
+      "Apis Mellifica"
+    ],
+    "syllabus": [
+      {
+        "year": 1,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 1,
+        "subject": "Pharmacy"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "sepia",
+    "name": "Sepia",
+    "source": "Animal - Cuttlefish Ink",
+    "keynotes": [
+      "Bearing-down sensation, as if everything would protrude from the pelvis",
+      "Yellow saddle across the bridge of the nose",
+      "Aversion to occupation, family, and loved ones",
+      "Empty, all-gone feeling in the stomach, not relieved by eating"
+    ],
+    "mind_symptoms": [
+      "Indifference to loved ones",
+      "Irritable, easily offended, wants to be alone",
+      "Weeping, sad, pessimistic",
+      "Fear of poverty, ghosts, and being alone"
+    ],
+    "modalities": {
+      "worse": [
+        "Cold air",
+        "Before menses",
+        "Pregnancy",
+        "Rest"
+      ],
+      "better": [
+        "Violent exercise",
+        "Warmth",
+        "Crossing legs",
+        "Evening"
+      ]
+    },
+    "common_uses": [
+      "Prolapse of uterus",
+      "Morning sickness",
+      "Depression",
+      "Menopause"
+    ],
+    "related_remedies": [
+      "Natrum Muriaticum",
+      "Nux Vomica",
+      "Pulsatilla"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "silicea",
+    "name": "Silicea",
+    "source": "Mineral - Pure Flint",
+    "keynotes": [
+      "Defective assimilation, puny children with large heads",
+      "Offensive foot sweat which makes the toes sore",
+      "Promotes expulsion of foreign bodies",
+      "Every little injury suppurates"
+    ],
+    "mind_symptoms": [
+      "Yielding, faint-hearted, anxious",
+      "Lacks grit (physical and mental)",
+      "Anticipatory anxiety but performs well",
+      "Obstinate, headstrong children (pin-mania)"
+    ],
+    "modalities": {
+      "worse": [
+        "Cold",
+        "Drafts",
+        "Dampness",
+        "New moon",
+        "Suppression of sweat"
+      ],
+      "better": [
+        "Warmth",
+        "Wrapping up the head",
+        "Summer"
+      ]
+    },
+    "common_uses": [
+      "Abscesses",
+      "Keloids",
+      "Constipation (bashful stool)",
+      "Chronic infections"
+    ],
+    "related_remedies": [
+      "Hepar Sulphuris",
+      "Pulsatilla",
+      "Calcarea Carbonica"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "spongia-tosta",
+    "name": "Spongia Tosta",
+    "source": "Animal - Roasted Sponge",
+    "keynotes": [
+      "Dry, barking, croupy cough sounding like a saw driven through a pine board",
+      "Awakens suddenly at night with suffocation",
+      "Swelling and induration of glands (thyroid, testes)",
+      "Heart affections with suffocative attacks"
+    ],
+    "mind_symptoms": [
+      "Anxiety, fear of death, feels she will die of suffocation",
+      "Every excitement increases the cough",
+      "Weeping, tearful disposition",
+      "Timidity"
+    ],
+    "modalities": {
+      "worse": [
+        "Dry, cold wind",
+        "Before midnight",
+        "Lying with head low",
+        "Sweets"
+      ],
+      "better": [
+        "Eating or drinking warm things",
+        "Lying with head high"
+      ]
+    },
+    "common_uses": [
+      "Croup",
+      "Goiter",
+      "Asthma",
+      "Orchitis"
+    ],
+    "related_remedies": [
+      "Aconitum Napellus",
+      "Hepar Sulphuris",
+      "Iodium"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "staphysagria",
+    "name": "Staphysagria",
+    "source": "Plant - Stavesacre",
+    "keynotes": [
+      "Ailments from suppressed anger, indignation, and humiliation",
+      "Styes, especially on the upper eyelid",
+      "Teeth turn black and crumble",
+      "Honeymoon cystitis"
+    ],
+    "mind_symptoms": [
+      "Very sensitive to what others say about him",
+      "Suppressed anger leading to physical complaints",
+      "Hypochondriacal, apathetic, memory weak",
+      "Throws things when angry"
+    ],
+    "modalities": {
+      "worse": [
+        "Anger",
+        "Indignation",
+        "Grief",
+        "Touch on affected parts"
+      ],
+      "better": [
+        "After breakfast",
+        "Warmth",
+        "Rest at night"
+      ]
+    },
+    "common_uses": [
+      "Cystitis",
+      "Surgical wounds (incisions)",
+      "Styes",
+      "Dental issues"
+    ],
+    "related_remedies": [
+      "Colocynthis",
+      "Ignatia Amara",
+      "Causticum"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "sulphur",
+    "name": "Sulphur",
+    "source": "Mineral - Sublimated Sulphur",
+    "keynotes": [
+      "Ragged philosopher, dirty, aversion to washing",
+      "Burning everywhere, uncovers feet at night",
+      "Empty feeling in stomach around 11 AM",
+      "Redness of all orifices (lips, anus)"
+    ],
+    "mind_symptoms": [
+      "Selfish, lazy, theorizes about everything",
+      "Delusion that rags are beautiful",
+      "Irritable, depressed, quarrelsome",
+      "Aversion to business"
+    ],
+    "modalities": {
+      "worse": [
+        "Bathing",
+        "Heat of bed",
+        "11 AM",
+        "Standing",
+        "Suppressions"
+      ],
+      "better": [
+        "Dry, warm weather",
+        "Lying on right side",
+        "Motion"
+      ]
+    },
+    "common_uses": [
+      "Skin diseases",
+      "Hemorrhoids",
+      "Chronic conditions",
+      "Diarrhea"
+    ],
+    "related_remedies": [
+      "Calcarea Carbonica",
+      "Lycopodium",
+      "Psorinum"
+    ],
+    "syllabus": [
+      {
+        "year": 2,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  },
+  {
+    "id": "thuja-occidentalis",
+    "name": "Thuja Occidentalis",
+    "source": "Plant - Arbor Vitae",
+    "keynotes": [
+      "Warts, sycotic excrescences, fig-warts",
+      "Ailments from bad effects of vaccination",
+      "Sweat only on uncovered parts, smells like honey",
+      "Sensation as if a living animal were in the abdomen"
+    ],
+    "mind_symptoms": [
+      "Fixed ideas, feels as if made of glass and would break",
+      "Feels that soul is separated from the body",
+      "Hasty, irritable, sad",
+      "Music causes weeping and trembling"
+    ],
+    "modalities": {
+      "worse": [
+        "Damp, cold weather",
+        "Vaccination",
+        "Onions",
+        "Tea",
+        "3 AM and 3 PM"
+      ],
+      "better": [
+        "Warmth",
+        "Dry weather",
+        "Drawing limbs up",
+        "Sweating"
+      ]
+    },
+    "common_uses": [
+      "Warts",
+      "Vaccinosis",
+      "Chronic catarrh",
+      "Neuralgia"
+    ],
+    "related_remedies": [
+      "Silicea",
+      "Natrum Sulphuricum",
+      "Medorrhinum"
+    ],
+    "syllabus": [
+      {
+        "year": 3,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Materia Medica"
+      },
+      {
+        "year": 4,
+        "subject": "Repertory"
+      }
+    ]
+  }
+]

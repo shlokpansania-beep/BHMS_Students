@@ -1,0 +1,52 @@
+.year-switcher-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  padding: 0 12px 0 10px;
+  height: 40px;
+  transition: all var(--transition-fast);
+  min-width: 140px;
+}
+
+.year-switcher-container:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-primary);
+}
+
+.year-switcher-icon {
+  font-size: 1rem;
+  margin-right: 6px;
+  pointer-events: none;
+}
+
+.year-switcher-select {
+  border: none;
+  background: none;
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  outline: none;
+  width: 100%;
+  padding-right: 16px;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 10 10'%3E%3Cpath fill='%234a7c59' d='M5 7L1 3h8z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right center;
+  min-height: 38px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.year-switcher-select option {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: normal;
+}

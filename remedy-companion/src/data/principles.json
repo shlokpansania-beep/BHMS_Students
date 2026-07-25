@@ -1,0 +1,74 @@
+[
+  {
+    "id": "aphorism-1",
+    "aphorism_number": 1,
+    "principle_name": "The Physician's High Mission",
+    "syllabus": [
+      { "year": 1, "subject": "Organon of Medicine" },
+      { "year": 2, "subject": "Organon of Medicine" },
+      { "year": 3, "subject": "Organon of Medicine" },
+      { "year": 4, "subject": "Organon of Medicine" }
+    ],
+    "explanation": "The physician's high and only mission is to restore the sick to health, to cure, as it is termed.",
+    "example": "A practitioner focuses on treating the patient as a whole to restore vital force balance, rather than just suppressing isolated symptoms like fever or skin rash."
+  },
+  {
+    "id": "aphorism-2",
+    "aphorism_number": 2,
+    "principle_name": "The Highest Ideal of Cure",
+    "syllabus": [
+      { "year": 1, "subject": "Organon of Medicine" },
+      { "year": 2, "subject": "Organon of Medicine" },
+      { "year": 3, "subject": "Organon of Medicine" },
+      { "year": 4, "subject": "Organon of Medicine" }
+    ],
+    "explanation": "The highest ideal of cure is rapid, gentle and permanent restoration of the health, or removal and annihilation of the disease in its entirety, in the shortest, most reliable, and most harmless way, on easily comprehensible principles.",
+    "example": "Prescribing a gentle homeopathic remedy that clears acute symptoms without causing side effects, drug dependency, or symptom suppression."
+  },
+  {
+    "id": "aphorism-3",
+    "aphorism_number": 3,
+    "principle_name": "Knowledge of the Physician",
+    "syllabus": [
+      { "year": 1, "subject": "Organon of Medicine" },
+      { "year": 2, "subject": "Organon of Medicine" },
+      { "year": 3, "subject": "Organon of Medicine" },
+      { "year": 4, "subject": "Organon of Medicine" }
+    ],
+    "explanation": "The physician must know: what is curable in diseases, what is curative in medicines, how to adapt the curative agent to the disease, and the obstacles to recovery.",
+    "example": "A physician recognizing that a patient's arthritis is curable, matches it with the correct remedy, and identifies that their cold, damp housing is an obstacle to recovery that must be addressed."
+  },
+  {
+    "id": "aphorism-4",
+    "aphorism_number": 4,
+    "principle_name": "Preserver of Health",
+    "syllabus": [
+      { "year": 1, "subject": "Organon of Medicine" }
+    ],
+    "explanation": "The physician is likewise a preserver of health if he knows the things that derange health and cause disease, and how to remove them from persons in health.",
+    "example": "Advising patients on hygiene, pure water, proper diet, ventilation, and stress management to prevent the derangement of their vital force."
+  },
+  {
+    "id": "aphorism-5",
+    "aphorism_number": 5,
+    "principle_name": "Exciting and Fundamental Causes",
+    "syllabus": [
+      { "year": 1, "subject": "Organon of Medicine" }
+    ],
+    "explanation": "Useful to the physician in assisting him to cure are the particulars of the most probable exciting cause of the acute disease, as also the most significant points in the whole history of the chronic disease, to enable him to discover its fundamental cause, which is generally due to a chronic miasm.",
+    "example": "Investigating how a sudden wet draft caused acute tonsillitis (exciting cause), or identifying the underlying sycotic miasm (fundamental cause) in a case of chronic asthma."
+  },
+  {
+    "id": "aphorism-26",
+    "aphorism_number": 26,
+    "principle_name": "Therapeutic Law of Nature",
+    "syllabus": [
+      { "year": 1, "subject": "Organon of Medicine" },
+      { "year": 2, "subject": "Organon of Medicine" },
+      { "year": 3, "subject": "Organon of Medicine" },
+      { "year": 4, "subject": "Organon of Medicine" }
+    ],
+    "explanation": "A weaker dynamic affection is permanently extinguished in the living organism by a stronger one, if the latter (whilst differing in kind) is very similar to it in its manifestations.",
+    "example": "The law of Similia Similibus Curentur. The dynamic artificial disease produced by a homeopathic medicine (which is slightly stronger and similar) displaces the weaker natural disease from the vital force."
+  }
+]

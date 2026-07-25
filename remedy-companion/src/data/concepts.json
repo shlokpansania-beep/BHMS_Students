@@ -1,0 +1,146 @@
+[
+  {
+    "id": "concept-femoral-triangle",
+    "title": "Femoral Triangle",
+    "syllabus": [
+      { "year": 1, "subject": "Anatomy" }
+    ],
+    "definition": "A triangular subfascial space situated in the anteromedial aspect of the upper one-third of the thigh.",
+    "key_points": [
+      "Boundaries: Inguinal ligament (superior), Sartorius muscle (lateral), Adductor longus muscle (medial).",
+      "Contents: Femoral nerve, Femoral artery, Femoral vein, and deep inguinal lymph nodes (lateral to medial).",
+      "Clinical significance: Site for checking femoral pulse, compressing femoral artery to control bleeding, and femoral hernia."
+    ],
+    "related_terms": ["Inguinal Ligament", "Sartorius muscle", "Femoral Hernia"]
+  },
+  {
+    "id": "concept-right-atrium",
+    "title": "Right Atrium of Heart",
+    "syllabus": [
+      { "year": 1, "subject": "Anatomy" }
+    ],
+    "definition": "One of the four chambers of the human heart, receiving deoxygenated blood from the systemic circulation.",
+    "key_points": [
+      "Receives blood from: Superior Vena Cava (SVC), Inferior Vena Cava (IVC), and Coronary Sinus.",
+      "Internal features: Sinus venarum (smooth posterior part), Pectinate muscles (rough anterior part), and Fossa ovalis on the interatrial septum.",
+      "SA Node: Located in the upper part of the sulcus terminalis near the opening of the SVC."
+    ],
+    "related_terms": ["Fossa Ovalis", "Sinoatrial Node", "Tricuspid Valve"]
+  },
+  {
+    "id": "concept-deltoid-muscle",
+    "title": "Deltoid Muscle",
+    "syllabus": [
+      { "year": 1, "subject": "Anatomy" }
+    ],
+    "definition": "A large, triangular muscle covering the shoulder joint, giving the shoulder its rounded contour.",
+    "key_points": [
+      "Origin: Clavicle (anterior part), Acromion (middle part), and Spine of Scapula (posterior part).",
+      "Insertion: Deltoid tuberosity on the lateral aspect of the shaft of the humerus.",
+      "Action: Major abductor of the arm (middle fibers, from 15 to 90 degrees), flexion (anterior fibers), extension (posterior fibers).",
+      "Nerve supply: Axillary nerve (C5, C6)."
+    ],
+    "related_terms": ["Axillary Nerve", "Shoulder Abduction", "Rotator Cuff"]
+  },
+  {
+    "id": "concept-portal-vein",
+    "title": "Hepatic Portal Vein",
+    "syllabus": [
+      { "year": 1, "subject": "Anatomy" }
+    ],
+    "definition": "A short, wide blood vessel that carries nutrient-rich blood from the gastrointestinal tract and spleen to the liver.",
+    "key_points": [
+      "Formation: Formed behind the neck of the pancreas by the union of the Superior Mesenteric Vein and the Splenic Vein.",
+      "Course: Runs upwards behind the first part of the duodenum in the free margin of the lesser omentum.",
+      "Tributaries: Left gastric vein, Right gastric vein, and Cystic vein.",
+      "Clinical significance: Portal hypertension causes varices in the esophagus, stomach, and rectum (hemorrhoids)."
+    ],
+    "related_terms": ["Portal Hypertension", "Splenic Vein", "Esophageal Varices"]
+  },
+  {
+    "id": "concept-action-potential",
+    "title": "Action Potential",
+    "syllabus": [
+      { "year": 1, "subject": "Physiology & Biochemistry" }
+    ],
+    "definition": "A rapid change in membrane potential that propagates along the surface of a cell (neuron or muscle fiber).",
+    "key_points": [
+      "Resting state: Resting membrane potential is typically -70mV in neurons, maintained by Na+/K+ ATPase pump.",
+      "Depolarization: Opening of voltage-gated Na+ channels allows Na+ influx, changing potential toward +30mV.",
+      "Repolarization: Closing of Na+ channels and opening of voltage-gated K+ channels allows K+ efflux, returning potential toward resting levels.",
+      "Hyperpolarization: Transient state where potential becomes more negative than resting potential due to delayed K+ channel closing."
+    ],
+    "related_terms": ["Depolarization", "Refractory Period", "Sodium-Potassium Pump"]
+  },
+  {
+    "id": "concept-erythropoiesis",
+    "title": "Erythropoiesis",
+    "syllabus": [
+      { "year": 1, "subject": "Physiology & Biochemistry" }
+    ],
+    "definition": "The complex process of origin, development, and maturation of Red Blood Cells (Erythrocytes) in the red bone marrow.",
+    "key_points": [
+      "Site: Yolk sac (mesoblastic stage in embryo), Liver/Spleen (hepatic stage in fetus), and Red Bone Marrow (myeloid stage post-birth).",
+      "Stages: Proerythroblast -> Early Normoblast -> Intermediate Normoblast (hemoglobin begins) -> Late Normoblast (nucleus extruded) -> Reticulocyte -> Erythrocyte.",
+      "Regulation: Stimulated by Erythropoietin (EPO), a hormone released by renal peritubular cells in response to hypoxia.",
+      "Factors: Vitamin B12 and Folic acid are essential for DNA synthesis; Iron is essential for hemoglobin synthesis."
+    ],
+    "related_terms": ["Erythropoietin", "Reticulocyte", "Megaloblastic Anemia"]
+  },
+  {
+    "id": "concept-gfr",
+    "title": "Glomerular Filtration Rate (GFR)",
+    "syllabus": [
+      { "year": 1, "subject": "Physiology & Biochemistry" }
+    ],
+    "definition": "The volume of fluid filtered from the glomerular capillaries into Bowman's capsule per unit time.",
+    "key_points": [
+      "Normal value: Approximately 125 mL/min (or 180 Liters/day) in healthy adult males.",
+      "Determinants: Glomerular capillary hydrostatic pressure (promotes filtration), Bowman's capsule hydrostatic pressure (opposes), and glomerular capillary colloid osmotic pressure (opposes).",
+      "Autoregulation: Maintained constant between renal arterial pressures of 80-180 mmHg via myogenic mechanism and tubuloglomerular feedback."
+    ],
+    "related_terms": ["Creatinine Clearance", "Bowman's Capsule", "Renal Autoregulation"]
+  },
+  {
+    "id": "concept-succussion",
+    "title": "Succussion",
+    "syllabus": [
+      { "year": 1, "subject": "Pharmacy" }
+    ],
+    "definition": "The act of shaking liquid homeopathic preparations vigorously with impact, used to potentize soluble substances.",
+    "key_points": [
+      "Process: Involves serial dilution of the substance in alcohol/purified water, followed by 10 strong downward strokes against a resilient leather pad.",
+      "Purpose: Homoeopathic philosophy states that succussion releases the latent dynamic healing power of the substance.",
+      "Potency scales: Used in Centesimal (C), Decimal (D/X), and 50-Millesimal (LM) potency preparation."
+    ],
+    "related_terms": ["Potentization", "Dilution", "Centesimal Scale"]
+  },
+  {
+    "id": "concept-trituration",
+    "title": "Trituration",
+    "syllabus": [
+      { "year": 1, "subject": "Pharmacy" }
+    ],
+    "definition": "The process of reducing insoluble solid substances to soluble potencies by grinding them with lactose (sugar of milk) in a mortar and pestle.",
+    "key_points": [
+      "Substances: Minerals (e.g. Silicea, Sulphur) and certain insoluble plant/animal materials.",
+      "Standard timing: A standard trituration step takes 1 hour, divided into three stages of 20 minutes each (scraping, mixing, grinding).",
+      "Solubility limit: Insoluble substances become soluble in water/alcohol after reaching the 6C or 8X trituration level."
+    ],
+    "related_terms": ["Mortar and Pestle", "Sugar of Milk", "Insoluble Substances"]
+  },
+  {
+    "id": "concept-maceration",
+    "title": "Maceration",
+    "syllabus": [
+      { "year": 1, "subject": "Pharmacy" }
+    ],
+    "definition": "A cold extraction process used in homeopathy to prepare mother tinctures from fresh, moisture-rich plant or animal substances.",
+    "key_points": [
+      "Duration: Requires placing the finely chopped drug substance in contact with solvent (alcohol/water) for 2 to 4 weeks.",
+      "Apparatus: Conducted in wide-mouthed, hermetically closed glass or stoneware jars.",
+      "Extraction mechanism: Solvent penetrates the tissues, dissolving soluble active principles; supernatant is then decanted and pressed out."
+    ],
+    "related_terms": ["Mother Tincture", "Decantation", "Percolation"]
+  }
+]
